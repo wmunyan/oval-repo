@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: org.oval.repo
+testFramework: spock
+sourceLanguage: groovy
+buildTool: gradle
+features: [annotation-api, app-name, aws-v2-sdk, gradle, groovy, groovy-application, http-client, jackson-databind, jackson-xml, logback, management, micronaut-aot, micronaut-build, micronaut-validation, netty-server, openapi, readme, security, security-annotations, security-jwt, security-oauth2, shade, spock, swagger-ui, yaml]
